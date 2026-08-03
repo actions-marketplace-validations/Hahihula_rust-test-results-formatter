@@ -10,7 +10,7 @@ inputs:
     default: "result.txt"
 
 runs:
-  using: "node20"
+  using: "node24"
   main: "src/index.js"
 
 branding:
